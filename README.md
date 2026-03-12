@@ -6,9 +6,9 @@
   <em>✨ Crafting delightful web experiences, one pixel at a time ✨</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheTaheer1&color=FF6B6B&style=for-the-badge&label=Profile+Visitors" alt="Profile Views" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -60,7 +60,7 @@ const taheer = {
 
 <h3 align="center">🖥️ Languages I Speak (to computers)</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark" alt="Languages"/>
 </p>
 
 <h3 align="center">🎨 Styling & UI Magic</h3>
@@ -70,7 +70,7 @@ const taheer = {
 
 <h3 align="center">⚙️ Dev Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,firebase&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Tools"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
