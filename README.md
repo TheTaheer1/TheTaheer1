@@ -6,10 +6,6 @@
   <em>✨ Crafting delightful web experiences, one pixel at a time ✨</em>
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheTaheer1&color=FF6B6B&style=for-the-badge&label=Profile+Visitors" alt="Profile Views" />
-</p> -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎮 About Me
@@ -106,16 +102,6 @@ const taheer = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTaheer1&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheTaheer1/TheTaheer1/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> ⚠️ *To enable the snake, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
