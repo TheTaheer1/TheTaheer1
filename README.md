@@ -65,7 +65,7 @@ const taheer = {
 
 <h3 align="center">🎨 Styling & UI Magic</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,css,figma&theme=dark" alt="UI Tools"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,css&theme=dark" alt="UI Tools"/>
 </p>
 
 <h3 align="center">⚙️ Dev Tools & Platforms</h3>
